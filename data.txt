@@ -1,3 +1,3 @@
 Name: Maschinache
 age: 29
-Favorite colour: Black
+Favorite colour: Black and white mono
